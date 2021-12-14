@@ -5,7 +5,7 @@ Here are examples to manage PRTG via PrtgAPI, for more information about PrtgAPI
 
 
 ## Add script advanced
-More advanced script examples for PRTG are available: [PRTG-Script](https://github.com/VCNTQA/PRTG-Script)
+More advanced script examples for PRTG are available in repository [PRTG-Script](https://github.com/VCNTQA/PRTG-Script)
 * [pythonscript.ps1](https://github.com/VCNTQA/PRTGAPI/blob/main/pythonscript.ps1)
 
 ## Add notification trigger
