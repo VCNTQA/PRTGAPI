@@ -4,7 +4,7 @@ Here are examples to manage PRTG via PrtgAPI, for more information about PrtgAPI
 ## Add multiple types of sensor
 
 
-## Add advance script
+## Add script advanced
 * [pythonscript.ps1](https://github.com/VCNTQA/PRTGAPI/blob/main/pythonscript.ps1)
 
 ## Add notification trigger
