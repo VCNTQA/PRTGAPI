@@ -5,7 +5,7 @@ Here are examples to manage PRTG via PrtgAPI, for more information about PrtgAPI
 
 
 ## Add advance script
-
+* [pythonscript.ps1](https://github.com/VCNTQA/PRTGAPI/blob/main/pythonscript.ps1)
 
 ## Add notification trigger
 * [Add-Notificationtrigger.ps1](https://github.com/VCNTQA/PRTGAPI/blob/main/Add-Notificationtrigger.ps1)
